@@ -1,0 +1,2 @@
+
+2018/11/19 01:01:15 /home/r/go/src/livego/server/LiveGoServer.go:187: LiveGoServer: listen tcp 0.0.0.0:8080: bind: address already in use
